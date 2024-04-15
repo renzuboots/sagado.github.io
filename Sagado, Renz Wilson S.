@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            OUTPUT #2- Sagado, Renz Wilson S.
+        </title>
+    </head>
+    <body>
+        <h1><center> 10 tourist spot destination in the Philippines! </center></h1> <hr>
+        <h2><center>1. Boracay</center></h2> 
+        <center><img src= "https://a.cdn-hotels.com/gdcs/production67/d1485/a24503e6-6f87-40bc-9d1d-88cfe7eace6a.jpg" width="500" </center> 
+       
+        <p>Boracay is a paradise for beach lovers. Known for its powdery white sand, crystal-clear waters, and breathtaking sunsets. </p>
+            <hr>
+            <h2>2. Palawan</h2> 
+            <img src="https://www.travel-palawan.com/wp-content/uploads/2019/01/tour-d-small-lagoon-private-boat.jpg" width="500" />
+            <p>Home to the enchanting El Nido and the Underground River, Palawan boasts limestone cliffs, turquoise lagoons, and pristine beaches.</p>
+            <hr> 
+            <h2>3. Cebu</h2> 
+        <img src="https://gttp.imgix.net/195229/x/0/kawasan-falls-from-second-level-1.jpg" width="500" />
+       
+        <p>Explore historical sites, vibrant festivals, and the famous Kawasan Falls in Cebu.</p>
+            <hr>
+            <h2>4. Bohol</h2> 
+            <img src="https://www.travelandleisure.com/thmb/3Zjw-OESjt8P4d_RHH2Vx9ItPcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chocolate-hills-GettyImages-1203882849-2286d699927b4368a299e3b6d09c9500.jpg" width="500" />
+            <p>Witness the unique Chocolate Hills, visit the Tarsier Sanctuary, and explore the Loboc River.</p>
+
+            <hr>
+            <h2>5. Baguio</h2> 
+        <img src="https://th.bing.com/th/id/R.2876f5ea22649f2842bf6658082cc7ad?rik=E0YVhqPb5UmJ0A&riu=http%3a%2f%2fbaguiofamilytime.weebly.com%2fuploads%2f2%2f3%2f0%2f9%2f23096684%2f2876f5ea22649f2842bf6658082cc7ad_orig.jpg&ehk=zLJjY0g29aETSk7wXZY62Hbm3hYTJ%2bOF208e3Kfs%2fXE%3d&risl=&pid=ImgRaw&r=0" width="500" />
+       
+        <p>Known as the “Summer Capital of the Philippines,” Baguio offers cool weather, scenic views, and the Panagbenga Festival.</p>
+<hr>
+<h2>6. Siargao</h2> 
+            <img src="https://www.thecoastalcampaign.com/wp-content/uploads/2019/09/Cloud-9-Siargao-.jpg" width="500" />
+            <p>Surf the famous Cloud 9 waves and explore the laid-back island vibe.</p>
+            <hr>
+            <h2>7. Davao</h2> 
+            <img src="https://gttp.imgix.net/267420/x/0/guide-to-samal-island-in-davao-largest-resort-city-in-the-philippines-6.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883" width="500" />
+            <p>Discover the Philippine Eagle, visit Eden Nature Park, and explore the Samal Island beaches.</p>
+            <hr>
+            <h2>8. Banaue Rice Terraces</h2> 
+            <img src="https://images.mapsofworld.com/allwonders/2013/08/Banaue-Rice-Terraces.jpg" width="500" />
+            <p>Marvel at the ancient terraced rice fields in Ifugao.</p>
+            <hr>
+            <h2>9. Los Baños</h2> 
+            <img src="https://mediaim.expedia.com/destination/2/14c53d0da84acaa0d05f9fd104ccac16.jpg" width="500" />
+            <p>Known for its hot springs, lush greenery, and the University of the Philippines Los Baños (UPLB).</p>
+            <hr>
+            <h2>10. Vigan</h2> 
+            <img src="https://i.pinimg.com/originals/0b/60/eb/0b60eb4a1fa88428b93dfc685f7d169d.jpg" width="500" />
+            <p>Wander through the cobblestone streets of this UNESCO World Heritage Site, known for its Spanish colonial architecture and Calle Crisologo.</p>
+            <hr>
+    </body>
+</html>
